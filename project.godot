@@ -12,7 +12,7 @@ config_version=5
 
 config/name="calculator"
 run/main_scene="res://calculator.tscn"
-config/features=PackedStringArray("4.1", "Mobile")
+config/features=PackedStringArray("4.3", "Mobile")
 config/icon="res://icon.svg"
 
 [rendering]
